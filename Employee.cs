@@ -8,6 +8,7 @@ namespace Labb8OOPGenericCollections
 {
     internal class Employee
     {
+        //Här finns inget nytt att förklara som inte har förklarats i tidigare labbar. en enkel klass med konstruktor, egenskaper och en metod.
         public Employee(int id, string name, string gender, int salary)
         {
             ID = id;
